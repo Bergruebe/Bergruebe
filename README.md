@@ -1,8 +1,8 @@
 ### Hello, I'm Bergrübe!
 ---
-- 🔭 I’m currently working on a own Matrix-Server
+- 👨🏼‍💻 I’m currently working on a own Matrix-Server
 - 🌱 I’m currently learning **Python**
-- On my Todo-List is:
+- 📝 On my Todo-List is:
   - Swift
   - Java
   - JS
