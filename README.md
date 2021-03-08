@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, I'm Bergrübe!
+---
+- 🔭 I’m currently working on a own Matrix-Server
+- 🌱 I’m currently learning **Python**
+- On my Todo-List is:
+  - Swift
+  - Java
+  - JS
 
 <!--
 **Bergruebe/Bergruebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
