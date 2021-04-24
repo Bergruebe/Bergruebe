@@ -1,6 +1,6 @@
 ### Hello, I'm Bergrübe!
 ---
-- 👨🏼‍💻 I’m currently working on a own Matrix-Server
+- 👨🏼‍💻 I’m currently working on a own Mail-Server
 - 🌱 I’m currently learning **Python**
 - 📝 On my Todo-List is:
   - Swift
