@@ -1,10 +1,9 @@
 ### Hello, I'm Bergrübe!
 ---
-- 👨🏼‍💻 I’m currently working on a own Mail-Server
+- 👨🏼‍💻 I’m currently working with Portainer
 - 🌱 I’m currently learning **Python**
 - 📝 On my Todo-List is:
   - Swift
-  - Java
   - JS
 
 <!--
